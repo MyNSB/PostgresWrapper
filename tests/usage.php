@@ -6,7 +6,7 @@
  * Time: 3:12 PM
  */
 
-include "../PostgresWrapper.php";
+include "../src/PostgresWrapper.php";
 use \PostgresWrapper as DB;
 
 
